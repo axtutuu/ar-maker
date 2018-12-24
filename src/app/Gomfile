@@ -1,0 +1,5 @@
+gom "github.com/gin-gonic/gin"
+gom "github.com/codegangsta/gin"
+gom "github.com/yosssi/ace"
+gom "github.com/jinzhu/gorm"
+gom "github.com/go-sql-driver/mysql"

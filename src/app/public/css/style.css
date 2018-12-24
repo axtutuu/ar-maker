@@ -1,0 +1,20 @@
+.container:not(:root) {
+  z-index: 100;
+  position: relative;
+}
+.container .container__button {
+  position: relative;
+}
+.picture:not(:root) {
+  position: relative;
+}
+.picture .picture__video {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.picture .picture__canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
